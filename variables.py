@@ -26,6 +26,7 @@ y = 4.7
 x = float(x)
 y = int(y)
 print(x, y)
+# bool to int - bool to float
 isOnline = True
 isOffline = False
 isOnline = int(isOnline)
